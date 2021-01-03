@@ -93,10 +93,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Bellsnow"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Activated at 2021"
+  location         : "Suwon, Korea"
   email            :
   links:
     - label: "Email"
@@ -275,7 +275,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: # true
+      read_time: # true
+      comments: true
       share: true
       related: true
+      show_date: true
