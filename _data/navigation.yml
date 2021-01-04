@@ -7,9 +7,9 @@ main:
     - title: "Problem Solving"
       url: /tech/ps.md
     - title: "Linux"
-      url: /tech/linux.md
+      url: /tech/linux/
     - title: "CPP"
-      url: /tech/cpp.md
+      url: /tech/cpp/
   - title: "Daily"
     children:
     - title: "Cook"
