@@ -1,0 +1,18 @@
+# main links
+main:
+  - title: "Tech"
+    children:
+    - title: "ARM"
+      url: /tech/ARM/
+    - title: "Problem Solving"
+      url: /tech/PS/
+    - title: "Linux"
+      url: /tech/Linux/
+    - title: "CPP"
+      url: /tech/CPP/
+  - title: "Daily"
+    children:
+    - title: "Cook"
+      url: /daily/cook/
+    - title: "Liquor"
+      url: /daily/liquor/
