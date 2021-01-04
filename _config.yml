@@ -281,10 +281,10 @@ defaults:
       related: true
       show_date: true
       sidebar:
-        nav: "main"     
+        nav: "main"
   # _pages
   - scope:
-      path: "_pages"
+      path: ""
       type: pages
     values:
       layout: single
