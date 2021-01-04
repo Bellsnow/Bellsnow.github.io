@@ -3,16 +3,16 @@ main:
   - title: "Tech"
     children:
     - title: "ARM"
-      url: /tech/arm.md
+      url: /categories/arm/
     - title: "Problem Solving"
-      url: /tech/ps.md
+      url: /categories/ps/
     - title: "Linux"
-      url: /tech/linux/
+      url: /categories/linux/
     - title: "CPP"
-      url: /tech/cpp/
+      url: /categories/cpp/
   - title: "Daily"
     children:
     - title: "Cook"
-      url: /daily/cook.md
+      url: /categories/cook/
     - title: "Liquor"
-      url: /daily/liquor.md
+      url: /categories/liquor/
