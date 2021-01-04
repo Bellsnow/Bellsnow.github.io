@@ -3,13 +3,13 @@ main:
   - title: "Tech"
     children:
     - title: "ARM"
-      url: /tech/ARM/
+      url: /tech/arm/
     - title: "Problem Solving"
-      url: /tech/PS/
+      url: /tech/ps/
     - title: "Linux"
-      url: /tech/Linux/
+      url: /tech/linux/
     - title: "CPP"
-      url: /tech/CPP/
+      url: /tech/cpp/
   - title: "Daily"
     children:
     - title: "Cook"
