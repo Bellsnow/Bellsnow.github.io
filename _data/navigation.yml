@@ -1,6 +1,13 @@
 # main links
 main:
   - title: "Tech"
+    url: /categories/tech/
+  - title: "Daily Life"
+    url: /categories/daily/
+
+# side links
+side:
+  - title: "Tech"
     children:
     - title: "ARM"
       url: /categories/arm/
@@ -10,7 +17,7 @@ main:
       url: /categories/linux/
     - title: "CPP"
       url: /categories/cpp/
-  - title: "Daily"
+  - title: "Daily Life"
     children:
     - title: "Cook"
       url: /categories/cook/
