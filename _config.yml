@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Bellsnow"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Activated at 2021"
+  bio              : "Activated in 2021"
   location         : "Suwon, Korea"
   email            :
   links:
@@ -280,6 +280,7 @@ defaults:
       share: true
       related: true
       show_date: true
+      use_math: true
       sidebar:
         nav: "side"
   # _pages
